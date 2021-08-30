@@ -1,6 +1,6 @@
 # Liquefaction Paper
 
-This repo includes the following:
+This repo includes the followings:
 
 1 - A couple of recent papers on predicting liquefaction. 
 
